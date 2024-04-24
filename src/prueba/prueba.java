@@ -5,6 +5,7 @@ public class prueba {
 		System.out.println("Hola mundo");
 		System.out.println("Adiós mundo");
 		System.out.println("Amai la kuki");
+		System.out.println("holaaaaç");
 		
 	}
 
